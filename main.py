@@ -1,6 +1,6 @@
-# Powered by @HYPER_AD13 | @ShiningOff
-# Dear Pero ppls Plish Don't remove this line from here🌚
-# created by ItsmeHyper13
+# Powered by @being_rohi | 
+# Dear Pero ppls Plish Don't remov@mooojooo0e this line from here🌚
+# created by mooojooo0
 
 import requests
 from pyrogram import idle
@@ -22,9 +22,9 @@ bot = Bot(
 async def main():
     async with bot:
         try:
-            await USER.join_chat(SILENT_DEVS)
-            await USER.join_chat(SILENT_BOTS)
-            await USER.join_chat(SilentVerse)
+            await USER.join_chat(TAMILSQUAD)
+            await USER.join_chat(being_rohi)
+            await USER.join_chat(clownchatters)
         except UserAlreadyParticipant:
             pass
         except Exception as e:
