@@ -1,4 +1,4 @@
-git+https://github.com/ItsmeHyper13/yt-dlp@master
+git+https://github.com/dk143gurjar/yt-dlp@master
 pyrogram==1.4.16
 TgCrypto
 py-tgcalls
