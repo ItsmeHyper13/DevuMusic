@@ -1,7 +1,7 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @Education_quiz_hub | @dk143gurjar
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @EDUCATION_QUIZ_HUB | @Dk143gurjar
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
