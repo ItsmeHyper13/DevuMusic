@@ -3,7 +3,7 @@
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://te.legra.ph/file/c15e374771b1b6807bd84.jpg",
-  "repository": "https://github.com/Dk143gurjar/DevuMusic",
+  "repository": "https://github.com/Dk143gurjar/Dkgurjar-123",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
