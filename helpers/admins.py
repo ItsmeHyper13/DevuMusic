@@ -1,4 +1,4 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @Dk_music_shayari | @dk143gurjar
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 from typing import List
