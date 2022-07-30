@@ -10,12 +10,12 @@
 <details><summary> <h3><b>Deployment!</b></h3> </summary>
 <pre>
 <b><i>••Deploy Dkgurjar-123 to Heroku••</i></b>
-<p><a href="https://heroku.com/deploy?template=https://github.com/Dk143gurjar/Dkgurjar-123"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Dk143gurjar/DevuMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 
 <pre>
 <b><i>••Deploy Dkgurjar-123 to Okteto••</i></b>
-<p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Dk143gurjar/Dkgurjar-123"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
+<p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Dk143gurjar/DevuMusic"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
 </details>
 <details>
 <summary><b><h3>Credits</h3></b></summary>
