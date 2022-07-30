@@ -1,4 +1,4 @@
-# Powered by @Dk143gurjar | @Dkgurjar143
+# Powered by @Education_quiz_hub | @Dk_music_shayari
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 from os import getenv
