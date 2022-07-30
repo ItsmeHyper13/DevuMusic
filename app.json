@@ -1,9 +1,9 @@
 {
-  "name": "HyperX Music",
+  "name": "𝐃𝐊 𝐌𝐔𝐒𝐈𝐂",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://telegra.ph/file/99446be35330477534a5d.jpg",
-  "repository": "https://github.com/ItsmeHyper13/DevuMusic",
+  "logo": "https://te.legra.ph/file/c15e374771b1b6807bd84.jpg",
+  "repository": "https://github.com/Dk143gurjar/DevuMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -27,12 +27,12 @@
     "OWNER_USERNAME": {
       "description": "fill with your telegram account username without @",
       "required": true,
-      "value": "ShiningOff"
+      "value": "Dk143gurjar"
     },
     "SUPPORT_GROUP": {
       "description": "if you have group, then fill the group username here without @",
       "required": true,
-      "value": "SilentVerse"
+      "value": "Education_quiz_hub"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
@@ -45,12 +45,12 @@
     "BOT_IMG": {
       "description": "Add bot image that will shown up in your bot menu",
       "required": false,
-      "value": "https://telegra.ph/file/2c3097ae03f950800a66f.jpg"
+      "value": "https://te.legra.ph/file/5e31ae87791fdc24d74ae.jpg"
     },
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true,
-      "value": "5280801259"
+      "value": "1781352356"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
