@@ -1,4 +1,4 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @Dk_music_shayari | @Dk143gurjar
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 from asyncio.queues import QueueEmpty
@@ -20,7 +20,7 @@ from pyrogram.types import (CallbackQuery, InlineKeyboardButton,
 
 BUTTON = [
     [
-        InlineKeyboardButton(text="Support", url=f"https://t.me/{SUPPORT_GROUP}"),
+        InlineKeyboardButton(text="Support", url=f"https://t.me/Education_quiz_hub"),
         InlineKeyboardButton(text="🗑️Close", callback_data="close_"),
     ],
 ]
