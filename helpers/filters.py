@@ -1,4 +1,4 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @Dk_music_shayari | @Education_quiz_hub
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 
